@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file:///media/vagrant/crypt/workspace/drozer-agent/gradle/drozer-agent/app/app.iml" filepath="/media/vagrant/crypt/workspace/drozer-agent/gradle/drozer-agent/app/app.iml" />
+      <module fileurl="file:///media/vagrant/crypt/workspace/drozer-agent/gradle/drozer-agent/drozer-agent.iml" filepath="/media/vagrant/crypt/workspace/drozer-agent/gradle/drozer-agent/drozer-agent.iml" />
+      <module fileurl="file:///media/vagrant/crypt/workspace/drozer-agent/gradle/drozer-agent/jdiesel/jdiesel.iml" filepath="/media/vagrant/crypt/workspace/drozer-agent/gradle/drozer-agent/jdiesel/jdiesel.iml" />
+      <module fileurl="file:///media/vagrant/crypt/workspace/drozer-agent/gradle/drozer-agent/mwr-android/mwr-android.iml" filepath="/media/vagrant/crypt/workspace/drozer-agent/gradle/drozer-agent/mwr-android/mwr-android.iml" />
+      <module fileurl="file:///media/vagrant/crypt/workspace/drozer-agent/gradle/drozer-agent/mwr-tls/mwr-tls.iml" filepath="/media/vagrant/crypt/workspace/drozer-agent/gradle/drozer-agent/mwr-tls/mwr-tls.iml" />
+    </modules>
+  </component>
+</project>
