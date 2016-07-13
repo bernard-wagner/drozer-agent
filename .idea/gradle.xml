@@ -3,25 +3,24 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
-        <option name="distributionType" value="LOCAL" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="gradleHome" value="$APPLICATION_HOME_DIR$/gradle/gradle-2.10" />
         <option name="modules">
           <set>
-            <option value="/media/vagrant/crypt/workspace/drozer-agent/gradle/drozer-agent" />
-            <option value="/media/vagrant/crypt/workspace/drozer-agent/gradle/drozer-agent/app" />
-            <option value="/media/vagrant/crypt/workspace/drozer-agent/gradle/drozer-agent/jdiesel" />
-            <option value="/media/vagrant/crypt/workspace/drozer-agent/gradle/drozer-agent/mwr-android" />
-            <option value="/media/vagrant/crypt/workspace/drozer-agent/gradle/drozer-agent/mwr-tls" />
+            <option value="/media/vagrant/crypt/workspace/drozer-agent" />
+            <option value="/media/vagrant/crypt/workspace/drozer-agent/app" />
+            <option value="/media/vagrant/crypt/workspace/drozer-agent/jdiesel" />
+            <option value="/media/vagrant/crypt/workspace/drozer-agent/mwr-android" />
+            <option value="/media/vagrant/crypt/workspace/drozer-agent/mwr-tls" />
           </set>
         </option>
         <option name="myModules">
           <set>
-            <option value="/media/vagrant/crypt/workspace/drozer-agent/gradle/drozer-agent" />
-            <option value="/media/vagrant/crypt/workspace/drozer-agent/gradle/drozer-agent/app" />
-            <option value="/media/vagrant/crypt/workspace/drozer-agent/gradle/drozer-agent/jdiesel" />
-            <option value="/media/vagrant/crypt/workspace/drozer-agent/gradle/drozer-agent/mwr-android" />
-            <option value="/media/vagrant/crypt/workspace/drozer-agent/gradle/drozer-agent/mwr-tls" />
+            <option value="/media/vagrant/crypt/workspace/drozer-agent" />
+            <option value="/media/vagrant/crypt/workspace/drozer-agent/app" />
+            <option value="/media/vagrant/crypt/workspace/drozer-agent/jdiesel" />
+            <option value="/media/vagrant/crypt/workspace/drozer-agent/mwr-android" />
+            <option value="/media/vagrant/crypt/workspace/drozer-agent/mwr-tls" />
           </set>
         </option>
       </GradleProjectSettings>
