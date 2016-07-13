@@ -1,0 +1,11 @@
+[submodule "jdiesel"]
+        path = jdiesel
+        url = https://github.com/kernelerrorZA/jdiesel.git
+
+[submodule "mwr-tls"]
+	path = mwr-tls
+	url = https://github.com/kernelerrorZA/mwr-tls.git
+
+[submodule "mwr-android"]
+	path = mwr-android
+	url = https://github.com/kernelerrorZA/mwr-android.git
