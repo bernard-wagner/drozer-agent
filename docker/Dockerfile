@@ -24,3 +24,7 @@ RUN wget http://dl.google.com/android/repository/android-ndk-r12b-linux-x86_64.z
 
 ENV ANDROID_HOME=/usr/lib/android-sdk-linux/
 ENV ANDROID_NDK_HOME=/usr/lib/android-sdk-linux/ndk/
+
+RUN mkdir /workspace
+
+WORKDIR /workspace
