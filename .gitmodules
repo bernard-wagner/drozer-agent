@@ -1,6 +1,3 @@
-[submodule "jdiesel"]
-        path = jdiesel
-        url = https://github.com/bernard-wagner/gradle-jdiesel.git
 
 [submodule "mwr-tls"]
 	path = mwr-tls
@@ -9,3 +6,7 @@
 [submodule "mwr-android"]
 	path = mwr-android
 	url = https://github.com/bernard-wagner/gradle-mwr-android.git
+
+[submodule "gradle-jdiesel"]
+	path = gradle-jdiesel
+	url = https://github.com/bernard-wagner/gradle-jdiesel.git
